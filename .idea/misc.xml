@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/UNA/Laboratorio2/app/src/main/res/layout/activity_avengers.xml" value="0.33" />
+        <entry key="..\:/UNA/Laboratorio2/app/src/main/res/layout/activity_main.xml" value="0.3484375" />
+        <entry key="..\:/UNA/Laboratorio2/app/src/main/res/layout/activity_top_comics.xml" value="0.33" />
+        <entry key="..\:/Users/David/IdeaProjects/Laboratorio2/app/src/main/res/layout/activity_main.xml" value="0.28306159420289856" />
+        <entry key="..\:/Users/beto/IdeaProjects/Laboratorio2/app/src/main/res/drawable/ic_launcher_background.xml" value="0.29914529914529914" />
+        <entry key="..\:/Users/beto/IdeaProjects/Laboratorio2/app/src/main/res/layout/activity_avengers.xml" value="0.358695652173913" />
+        <entry key="..\:/Users/beto/IdeaProjects/Laboratorio2/app/src/main/res/layout/activity_main.xml" value="0.358695652173913" />
+        <entry key="..\:/Users/beto/IdeaProjects/Laboratorio2/app/src/main/res/layout/activity_top_comics.xml" value="0.3484375" />
+        <entry key="..\:/Users/beto/IdeaProjects/Laboratorio2/app/src/main/res/layout/activity_xmen.xml" value="0.25" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="jbr-11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
